@@ -6,3 +6,4 @@ z = x / y
 prin(f"{z:.2f}")
 
 #I have used a diffeence sequence of character This the the way according to the documentation how you specify using a f string how many digits you want to print
+#hiiii mami
